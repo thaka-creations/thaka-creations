@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome to My Professional Profile! 🚀
 
-<!--
-**thaka-creations/thaka-creations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Lead Backend Engineer at GeoProjects Kenya, specializing in scalable software solutions and system architecture
+- Bachelor's Degree in Electrical and Electronics Engineering from Jomo Kenyatta University of Science and Technology
+- Passionate about technology, continuous learning, and building impactful software solutions
+- Outside of work, I engage in community service, professional development, outdoor activities, and staying current with tech trends through documentaries and industry podcasts
 
-Here are some ideas to get you started:
+### Technical Expertise
+- Backend Development: Python, Django, Node.js
+- Database Management: PostgreSQL, MongoDB
+- API Design & Development
+- System Architecture & Scalability
+- Cloud Services & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+- LinkedIn: [Abdul Nelfrank](https://www.linkedin.com/in/abdul-nelfrank-47242094/)
+- X(Formerly Twitter) : [Follow me](https://x.com/nelfrankaj)
