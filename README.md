@@ -7,6 +7,6 @@
 - Outside of work, I engage in community service, professional development, outdoor activities, and staying current with tech trends through documentaries and industry podcasts
 
 ### Connect With Me
-- LinkedIn: [Abdul Nelfrank](https://www.linkedin.com/in/abdul-nelfrank-47242094/)
-- X(Formerly Twitter) : [Follow me](https://x.com/nelfrankaj)
-- If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/thakacreatb)
+- 🔗 LinkedIn: [Abdul Nelfrank](https://www.linkedin.com/in/abdul-nelfrank-47242094/)
+- 🐦 X(Formerly Twitter) : [Follow me](https://x.com/nelfrankaj)
+- ☕ If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/thakacreatb)
